@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    font-size: 48px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blanchedalmond;
+}
+
+ul {
+    font-size: 20px;
+    text-align: left;
+}
+h2 {
+    text-align: center;
+    font-size: 32px;
+    color: aqua;
+}
+.imagen {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+html {
+    background-color: rgb(255, 149, 0);
+}
